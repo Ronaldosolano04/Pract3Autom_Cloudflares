@@ -1,1 +1,1 @@
-Aumatizacion pag web con github pages o cloudflares pages
+Aumatizacion pag web con Github Pages / Cloudflares Pages.
